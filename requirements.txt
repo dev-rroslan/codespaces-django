@@ -1,3 +1,8 @@
-Django==4.1.13
+Django==4.2.7
 django-browser-reload==1.6.0
 python-dotenv==1.0.0
+asgiref==3.7.2
+gunicorn==21.2.0
+packaging==23.2
+Pillow==10.1.0
+psycopg2==2.9.9
